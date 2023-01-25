@@ -2,6 +2,7 @@
 # Do not use this in production. Sample purpose only.
 
 # Author: Upkar Lidder (IBM)
+# jj062
 
 # Input:
 # p, principal amount
